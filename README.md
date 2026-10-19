@@ -4,6 +4,11 @@ KasirKu adalah aplikasi kasir toko mini berbasis konsol yang dibuat dengan bahas
 
 Proyek ini dikembangkan sebagai tugas UTS Dasar Pemrograman dan menerapkan materi praktikum: input-output, pengkondisian, perulangan, kontrol perulangan, dan menu interaktif.
 
+Anggota Kelompok:
+Cut Syafira Nahfiz (261401020) Kom A, Lab 1
+Naysha Iskandar (261401023) Kom A, Lab 1
+El Nino Vincitore (261401117) Kom A, Lab 2
+
 ✨ Fitur Utama
 1. Input Barang
 Kasir memasukkan nama barang, harga satuan, dan jumlah beli secara berulang.
